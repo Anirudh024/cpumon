@@ -58,6 +58,7 @@
     "percircle": "^1.0.33",
     "require": "^2.4.20",
     "systeminformation": "^5.11.0",
+    "tools": "^0.0.0",
     "watch": "^1.0.2"
   },
   "devDependencies": {
